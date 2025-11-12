@@ -1,0 +1,7 @@
+import {v2 as cloudinary} from "cloudinary";
+
+cloudinary.config({
+    cloud_name:process.env.CLOUDINARY_CLOUD_NAME
+    :process.env.CLOUDINARY_CLOUD_NAME
+    cloud_name:process.env.CLOUDINARY_CLOUD_NAME
+})
