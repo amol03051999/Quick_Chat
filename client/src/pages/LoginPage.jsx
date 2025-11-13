@@ -49,7 +49,7 @@ const LoginPage = () => {
             border border-gray-500 rounded-md focus:outline-none 
             focus:ring-2 focus:ring-indigo-500'/>
 
-            <input onChange={(e)=>setPassword(e.target.value)} value={password} type='password' placeholder='Email Address' required className='p-2
+            <input onChange={(e)=>setPassword(e.target.value)} value={password} type='password' placeholder='Password' required className='p-2
             border border-gray-500 rounded-md focus:outline-none 
             focus:ring-2 focus:ring-indigo-500'/>
         </>
